@@ -1363,6 +1363,9 @@
             <ignore>
                 <datatype>sales_flat_order_item.report_date</datatype>
             </ignore>
+            <ignore>
+                <datatype>sales_flat_order_item.product_options</datatype>
+            </ignore>
         </field_rules>
     </source>
     <destination>
