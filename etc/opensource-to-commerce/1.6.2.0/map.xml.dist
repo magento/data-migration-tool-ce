@@ -2527,6 +2527,24 @@
                 <document>event_data</document>
             </ignore>
             <ignore>
+                <document>inventory_cl</document>
+            </ignore>
+            <ignore>
+                <document>quote_coupons</document>
+            </ignore>
+            <ignore>
+                <document>sales_order_coupons</document>
+            </ignore>
+            <ignore>
+                <document>salesrule_rule_cl</document>
+            </ignore>
+            <ignore>
+                <document>targetrule_product_rule_cl</document>
+            </ignore>
+            <ignore>
+                <document>targetrule_rule_product_cl</document>
+            </ignore>
+            <ignore>
                 <document>magento_acknowledged_bulk</document>
             </ignore>
             <ignore>
